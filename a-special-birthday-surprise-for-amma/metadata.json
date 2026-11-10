@@ -1,0 +1,6 @@
+{
+  "name": "A Special Birthday Surprise for Amma",
+  "description": "An elegant, interactive luxury digital birthday gift and heartfelt journey dedicated to Amma with cinematic transitions, glowing animations, and fireworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
